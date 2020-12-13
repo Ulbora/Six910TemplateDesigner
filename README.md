@@ -1,6 +1,16 @@
 ![](./six910.png)
 
-# Six910 UI
+# Six910 Template Designer
+
+### This is the template designer for Six910 Shopping Cart System
+Start the designer by:
+1. Set up a complete Six910 development environment as shown on the github page for Six910
+2. Pull the template designer from github
+3. Open the designer folder in VSCode
+4. Type ./main in a terminal
+5. Open http://localhost:8080/admin in a browser window
+6. Log in with admin admin
+
 
 [![Build Status](https://travis-ci.org/Ulbora/Six910-ui.svg?branch=master)](https://travis-ci.org/Ulbora/Six910-ui)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Six910-ui&metric=alert_status)](https://sonarcloud.io/dashboard?id=Six910-ui)
